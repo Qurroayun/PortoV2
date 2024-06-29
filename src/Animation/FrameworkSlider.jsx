@@ -30,30 +30,26 @@ const FrameworkSlider = () => {
       <div className="splide__track rounded-full h-20">
         <ul className="splide__list">
           <li className="splide__slide flex flex-col justify-center items-center">
-            <img width={90} src="./public/images/node.png" alt="NodeJS" />
+            <img width={90} src="../images/node.png" alt="NodeJS" />
           </li>
           <li className="splide__slide flex flex-col justify-center items-center">
-            <img width={85} src="./public/images/react.png" alt="ReactJS" />
+            <img width={85} src="../images/react.png" alt="ReactJS" />
           </li>
           <li className="splide__slide flex flex-col justify-center items-center">
-            <img width={85} src="./public/images/mendix.png" alt="Mendix" />
+            <img width={85} src="../images/mendix.png" alt="Mendix" />
           </li>
           <li className="splide__slide flex flex-col justify-center items-center">
             <img
               width={170}
-              src="./public/images/laravel-logo.wine.png"
+              src="../images/laravel-logo.wine.png"
               alt="Laravel"
             />
           </li>
           <li className="splide__slide flex flex-col justify-center items-center">
-            <img width={90} src="./public/images/tailwind.png" alt="Tailwind" />
+            <img width={90} src="../images/tailwind.png" alt="Tailwind" />
           </li>
           <li className="splide__slide flex flex-col justify-center items-center">
-            <img
-              width={90}
-              src="./public/images/bootstrap.png"
-              alt="Bootstrap"
-            />
+            <img width={90} src="../images/bootstrap.png" alt="Bootstrap" />
           </li>
         </ul>
       </div>

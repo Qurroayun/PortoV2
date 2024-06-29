@@ -10,11 +10,11 @@ const Project = () => {
   const projects = [
     {
       id: 1,
-      title: "Project 1",
-      description: "If a dog chews shoes whose shoes does he choose?",
+      title: "INA Vertex",
+      description:
+        "Mendix Low-Code \n\n Develop Responsive Layout/Slicing \n Develop Integration Entra Id And Sharepoint \n Develop Generate Excel and PDF \n\n Develop Micrlofows For Logic Functional \n Develop Domain Model (Database) \n Azure \n Agile/Scrum",
       indcatorTitle: "Full-Stack",
-      image:
-        "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg",
+      image: "../images/ina.png",
       githubLink: "",
     },
     {
@@ -23,7 +23,7 @@ const Project = () => {
       description:
         "Javascript, ES6 \n React Vite \n Tailwind  \n Responsive \n Free API films \n\n Home page \n Login page \n Select user page \n main page \n detail per-film page",
       indcatorTitle: "Front-End",
-      image: "../public/images/ssnetchil.png",
+      image: "../images/ssnetchil.png",
       githubLink: "https://github.com/Qurroayun/FE-Netchill-React",
     },
     {
@@ -32,7 +32,7 @@ const Project = () => {
       description:
         "Front-end \n Javascript, ES6 \n React Vite, Tailwind, Responsive \n Main page \n Login page \n Product page \n Payment Page \n Search \n Cart \n User profile page \n Admin Dashboard \n\n Back-End \n NodeJs Ft Express \n Login Api \n Product Api \n Main Api \n Search Api \n Cart Api \n User Api \n Admin Api \n Logout Api \n Database Mysql \n\n Is not include Payment Gateway",
       indcatorTitle: "Full-Stack",
-      image: "../public/images/ssecomer.png",
+      image: "../images/ssecomer.png",
       githubLink: "",
     },
     {
@@ -41,17 +41,8 @@ const Project = () => {
       description:
         "Front-End \n HTML, CSS, JavaScript \n Login Page \n Dashboard main with Roles \n Chart Per-Dashboard main \n User Profile \n User Register Form Admin \n\n Back-End \n PHP \n Register Api \n Login Roles Api \n Dashboard Api \n User Api \n Database Mysql \n\n Framework Laravel 9  ",
       indcatorTitle: "Full-Stack",
-      image: "../public/images/monitoring.png",
+      image: "../images/monitoring.png",
       githubLink: "",
-    },
-    {
-      id: 5,
-      title: "Project 5",
-      description: "If a dog chews shoes whose shoes does he choose?",
-      indcatorTitle: "Back-End",
-      image:
-        "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg",
-      githubLink: "https://github.com/example/project2",
     },
   ];
 

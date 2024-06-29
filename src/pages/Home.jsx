@@ -7,7 +7,7 @@ const Home = () => {
       <div className="hero mx-auto min-h-screen sm:mt-5 md:mt-5">
         <div className="hero-content flex-col lg:flex-row">
           <img
-            src="../public/images/avatar.png"
+            src="../images/avatar.png"
             className="max-w-full sm:max-w-xs md:max-w-sm lg:max-w-md rounded-lg shadow-2xl"
           />
           <div className="grid-cols-2">

@@ -29,13 +29,13 @@ const ProgramLangSlider = () => {
       <div className="splide__track ">
         <ul className="splide__list">
           <li className="splide__slide flex justify-center items-center">
-            <img width={140} src="./public/images/javascript.png" alt="" />
+            <img width={140} src="../images/javascript.png" alt="" />
           </li>
           <li className="splide__slide flex justify-center items-center">
-            <img width={110} src="./public/images/typescript.png" alt="" />
+            <img width={110} src="../images/typescript.png" alt="" />
           </li>
           <li className="splide__slide flex justify-center items-center">
-            <img width={140} src="./public/images/php.png" alt="" />
+            <img width={140} src="../images/php.png" alt="" />
           </li>
         </ul>
       </div>
