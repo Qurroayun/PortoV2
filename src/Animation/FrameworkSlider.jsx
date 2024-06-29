@@ -41,7 +41,7 @@ const FrameworkSlider = () => {
           <li className="splide__slide flex flex-col justify-center items-center">
             <img
               width={170}
-              src="../images/laravel-logo.wine.png"
+              src="../images/Laravel-Logo.wine.png"
               alt="Laravel"
             />
           </li>
